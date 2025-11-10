@@ -141,10 +141,5 @@ This project shows the practical application of machine learning techniques in *
 ### 🧠 Future Improvements
 
 * Apply **GridSearchCV** for hyperparameter tuning.
-* Try **XGBoost** or **Gradient Boosting** models for higher accuracy.
-* Build an interactive **dashboard (Streamlit)** for real-time predictions.
+* Try **XGBoost** or **Gradient Boosting** models for higher accuracy.* Build an interactive **dashboard (Streamlit)** for real-time predictions.
 * Perform **SMOTE balancing** for better handling of class imbalance.
-
-
-
-Would you like me to now create the **step-by-step Jupyter Notebook code (cell by cell)** for this same project next — just like we did for the first on
